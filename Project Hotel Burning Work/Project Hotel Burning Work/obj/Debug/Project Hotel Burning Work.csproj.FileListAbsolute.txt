@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\bin\Debug\Project Hotel Burning Work.exe.config
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\bin\Debug\Project Hotel Burning Work.exe
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\bin\Debug\Project Hotel Burning Work.pdb
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project Hotel Burning Work.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project_Hotel_Burning_Work.Form1.resources
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project_Hotel_Burning_Work.Properties.Resources.resources
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project Hotel Burning Work.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project Hotel Burning Work.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project Hotel Burning Work.exe
+C:\Users\MSI\Desktop\ProjectC#New\Project Hotel Burning Work\Project Hotel Burning Work\obj\Debug\Project Hotel Burning Work.pdb
